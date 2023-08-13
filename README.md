@@ -3,4 +3,4 @@ The top and bottom case pieces for the v1 Floppy Port Voltage Meter designed by 
 
 Please see the MacOMeter DIY Build Guide-2.pdf for the full instructions on how to put the kit together and more information.
 
-Download the Bottom_WIDE.stl and the Top_WIDE.stl files to make the 2 pieces of the case.
+Download the v1_Meter_Case.zip file which contains the Top & Bottom to make the 2 pieces of the case.
